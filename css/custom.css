@@ -1,1 +1,74 @@
 /* Add here all your CSS customizations */
+.working-area{
+    background:#f6f6f6;
+}
+.working-area p{
+    font-size: 13px;
+    color:#9a9a9a;
+}
+.working-area .col-md-3 div{
+    height:230px;
+    background:red;
+}
+.working-area .col-md-3 .div-one{
+    background: #10c6fc;
+}
+.working-area .col-md-3 .div-one:hover{
+    background: #0692bc;
+}
+.working-area .col-md-3 .div-two{
+    background: #835aeb;
+}
+.working-area .col-md-3 .div-two:hover{
+    background: #5c33c5;
+}
+.working-area .col-md-3 .div-three{
+    background: #002453;
+}
+.working-area .col-md-3 .div-three:hover{
+    background: #01152f;
+}
+.working-area .col-md-3 .div-four{
+    background: #ff2b4a;
+}
+.working-area .col-md-3 .div-four:hover{
+    background: #c7243c;
+}
+.working-area .col-md-3 div i{
+    font-size: 30px;
+    padding-top: 70px;
+}
+.working-area .col-md-3 div #first-h2{
+    font-size: 19px;
+}
+
+/******************working-experience-area****************/
+.working-experience-area{
+    background-image: url('picture/putney-high-street-getty1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:auto;
+}
+.working-experience-area .col-md-6 div{
+    background:#3A2237;
+    height:auto;
+    opacity: 0.8;
+}
+.working-experience-area .col-md-6 div h2{
+    font-size: 25px;
+}
+.working-experience-area .col-md-6 div p{
+    color: #b7bdc6;
+}
+.working-experience-area .col-md-6 div hr{
+    border-top: 2px solid #b9b7c0;
+    margin-left: 46px;
+    margin-right: 38px;
+}
+
+/******************latest-working-area****************/
+.latest-working-area p{
+    font-size: 13px;
+    color:#9a9a9a;
+}
+
